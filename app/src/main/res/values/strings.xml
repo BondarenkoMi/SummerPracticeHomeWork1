@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">homework1</string>
+    <string name="inputNumbersText">Введите количество машин</string>
+    <string name="buttonText">Начать гонку</string>
+</resources>
